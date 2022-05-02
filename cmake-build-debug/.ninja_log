@@ -1,0 +1,5 @@
+# ninja log v5
+6	574	6718817519967703	CMakeFiles/SussySolutions_DeSync.dir/pch.cpp.obj	6955d69ca545a13
+0	805	6718817522287697	CMakeFiles/SussySolutions_DeSync.dir/dllmain.cpp.obj	cf521fee75fc08f3
+0	128	6718825034819132	build.ninja	7b6ccbe1a89c0dcc
+2	47	6718818706066168	libSussySolutions_DeSync.a	ca6f67c4822a2be3

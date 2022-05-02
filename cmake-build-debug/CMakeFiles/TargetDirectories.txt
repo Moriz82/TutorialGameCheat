@@ -1,0 +1,3 @@
+E:/SussySolutions/SussySolutions-DeSync/cmake-build-debug/CMakeFiles/SussySolutions_DeSync.dir
+E:/SussySolutions/SussySolutions-DeSync/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/SussySolutions/SussySolutions-DeSync/cmake-build-debug/CMakeFiles/rebuild_cache.dir
